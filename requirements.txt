@@ -1,6 +1,5 @@
 
 gunicorn
-gdown
 Flask
 
 Flask==3.0.0
